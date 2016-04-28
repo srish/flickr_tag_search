@@ -1,0 +1,6 @@
+Installation
+===
+
+* Git clone the repository
+* Run the python server `python -m SimpleHTTPServer`
+* Open `http://localhost:8000`
